@@ -2,6 +2,18 @@
 ### Added
 ### Changed
 
+## [3.0.1] - 2019-04-24
+### Added
+- Package-lock json
+- Add npm script "server"
+- Add npm script "server:dist"
+- Add npm script "build"
+### Changed
+- Gulp version into 3.9.0
+- Update README
+### Removed
+- Remove yarn
+
 ## [3.0] - 2017-11-18
 ### Added
 
