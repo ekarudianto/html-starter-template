@@ -3,8 +3,8 @@
   "version": "3.0.1",
   "description": "HTML starter template",
   "scripts": {
-    "server": "gulp server",
-    "server:dist": "gulp server:dist",
+    "start": "gulp server",
+    "start:dist": "gulp server:dist",
     "build": "gulp build"
   },
   "repository": "git+https://github.com/ekarudianto/html-starter-template.git",

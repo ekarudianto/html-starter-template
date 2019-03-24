@@ -31,12 +31,12 @@ This starter template was intended to help me creating a static html template. I
  - Install bower, run ```npm install -g bower```
  - Do a ```git clone``` from https://github.com/ekarudianto/quick-build-html.git
  - Inside project directory, run ```npm install && bower install``` to install dependencies
- - Run ```npm run server``` to run local server
+ - Run ```npm start``` to run local server
  - Go to ```localhost:9010``` for development mode
 
 ### Run in distribution package
 
-Run ```npm run server:dist``` in project directory and go to ```localhost:9050``` for running the web app in distribution package.
+Run ```npm run start:dist``` in project directory and go to ```localhost:9050``` for running the web app in distribution package.
 
 ### Build the web app
 
