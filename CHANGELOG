@@ -10,6 +10,7 @@
 - Add npm script "build"
 ### Changed
 - Gulp version into 3.9.0
+- Update README
 ### Removed
 - Remove yarn
 
